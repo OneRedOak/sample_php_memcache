@@ -1,6 +1,6 @@
 {
-    "name": "sample_php_redis",
-    "description": "Sample project using PHP and Redis.",
+    "name": "sample_php_memcached",
+    "description": "Sample project using PHP and Memcached.",
     "license": "MIT",
     "require": {
         "php": ">=5.3.3"

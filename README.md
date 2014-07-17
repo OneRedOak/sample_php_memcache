@@ -1,4 +1,4 @@
-PHP Sample with Redis
+PHP Sample with Memcached
 =================
 
-Sample PHP project using Redis with PHPUnit and Xdebug used for unit test and coverage reporting.
+Sample PHP project using Memcached with PHPUnit and Xdebug used for unit test and coverage reporting.
